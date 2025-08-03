@@ -1,0 +1,30 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "ai-design",
+    "cursor/build-application-landing-page-9d80",
+    "cursor/redesign-homepage-with-modern-aesthetics-f52a",
+    "fake-edits",
+    "main",
+    "solutions",
+    "solutions-old"
+  ],
+  "parent": {
+    "ai-design": "main",
+    "cursor/build-application-landing-page-9d80": "main",
+    "cursor/redesign-homepage-with-modern-aesthetics-f52a": "main",
+    "fake-edits": "main",
+    "main": null,
+    "solutions": "main",
+    "solutions-old": "solutions"
+  },
+  "order": [
+    "main",
+    "ai-design",
+    "cursor/build-application-landing-page-9d80",
+    "cursor/redesign-homepage-with-modern-aesthetics-f52a",
+    "fake-edits",
+    "solutions",
+    "solutions-old"
+  ]
+}
